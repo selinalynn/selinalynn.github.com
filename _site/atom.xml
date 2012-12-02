@@ -4,7 +4,7 @@
  <title>Joyce的部落格</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2012-12-02T09:29:01+08:00</updated>
+ <updated>2012-12-02T10:36:16+08:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>Joyce Xu</name>
@@ -13,11 +13,19 @@
 
  
  <entry>
-   <title>Joyce Introduction</title>
-   <link href="http://username.github.com/lessons/2012/12/01/joyce-introduction"/>
+   <title>第七课</title>
+   <link href="http://username.github.com/2012/12/02/%E7%AC%AC%E4%B8%83%E8%AF%BE"/>
+   <updated>2012-12-02T00:00:00+08:00</updated>
+   <id>http://username.github.com/2012/12/02/第七课</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Joyce Info</title>
+   <link href="http://username.github.com/lessons/2012/12/01/joyce-info"/>
    <updated>2012-12-01T00:00:00+08:00</updated>
-   <id>http://username.github.com/lessons/2012/12/01/joyce-introduction</id>
-   <content type="html">&lt;h2 id='id1'&gt;第七课&lt;/h2&gt;
+   <id>http://username.github.com/lessons/2012/12/01/joyce-info</id>
+   <content type="html">&lt;h2 id='id11'&gt;第七课&lt;/h2&gt;
 
 &lt;p&gt;ausstoßen&lt;/p&gt;</content>
  </entry>

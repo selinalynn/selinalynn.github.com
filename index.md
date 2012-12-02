@@ -1,23 +1,27 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Linux德语学习札记
+tagline: 好好学习,天天向上
 ---
 {% include JB/setup %}
 
-回忆昨日的忧愁.
+>Jeder hat seinen Lieblingsfeind, ohne den er einsam wäre.
+>
+> --Romain Gary,französischer Romanschriftsteller
 
 最近的schedule:
 
-* 把翻译课的翻译句子都背出来*
+				1. 把翻译的句子都背出来
+				2. 把高德翻译都背出来
+				3. 在博客上改点东西
+				4. 记得改cname
+				5. 把欠的各种都还掉
 
-* 高德的翻译和词形转换都搞清楚*
+1.  好忧伤
 
-* 记得在博客上码点文字上去*
 
-* 记得把CNAME加好*
 
-* 记得付款*
+2.  好忧伤
 
 
 感觉差不多也就这些了,看起来很少,但是做起来也不少了,恩.
